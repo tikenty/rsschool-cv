@@ -1,6 +1,6 @@
 # Tlek Auyelbekov
 
-+7(777) 050 9660 | tikenty@gmail.com
++7(777) 050 9660 | tikenty@gmail.com | [Linkedin](https://www.linkedin.com/in/tikenty/)
 
 Student in 💗[**RS School**](https://rs.school/)
 
@@ -9,3 +9,11 @@ Student in 💗[**RS School**](https://rs.school/)
 - HTML
 - CSS
 - JavaScript
+
+## Languages
+
+**kazakh** - C2
+
+**russian** - C2
+
+**english** - A2
